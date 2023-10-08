@@ -18,8 +18,8 @@ Follow these steps to set up and use Custom Antivirus Software:
 1. **Installation**: Clone the repository and install the required dependencies.
 
    ```shell
-   git clone https://github.com/ray837/custom-antivirus.git
-   cd custom-antivirus
+   git clone https://github.com/ray837/Antivirus.git
+   cd Antivirus
    pip install -r requirements.txt
    ```
  **Usage:** Run the application and use the provided command-line or GUI interface to perform antivirus scans, RAM boosting, and file management tasks
