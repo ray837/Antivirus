@@ -34,14 +34,8 @@ Custom Antivirus Software is committed to transparency in its development and op
 
 - **Community Contributions**: We welcome contributions from the open-source community. By involving contributors from around the world, we ensure that the software benefits from diverse perspectives, expertise, and continuous improvement.
 
-- **Issue Tracking**: We maintain a public issue tracker on GitHub where users can report bugs, suggest enhancements, or ask questions. This transparent communication helps us address user concerns promptly and openly.
-
-- **Roadmap**: Our development roadmap, including planned features and enhancements, is publicly available. You can see what improvements are in the pipeline and even contribute to discussions about the future direction of the project.
-
-- **Security**: We take security seriously. While we do our best to ensure the security of the software, if you identify a security issue, please responsibly disclose it to us so that we can address it promptly and protect our users.
-
-- **Documentation**: Clear and comprehensive documentation is provided to help users understand how to use the software effectively and securely. We encourage users to read and provide feedback on the documentation.
+- **Roadmap**: My development roadmap, including planned features and enhancements, is publicly available. You can see what improvements are in the pipeline and even contribute to discussions about the future direction of the project.
 
 My commitment to transparency aims to build trust and ensure that users have the information and tools they need to assess the safety and functionality of Custom Antivirus Software.
 
-I encourage users and the broader open-source community to actively participate in improving the software and its security. Together, we can create a more transparent, secure, and reliable antivirus solution.
+I encourage users and the broader open-source community to actively participate in improving the software and its security. Together, we can create a more transparent, secure, and reliable  user-controlled antivirus software.
